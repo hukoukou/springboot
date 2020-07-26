@@ -1,0 +1,5 @@
+com/sitech/myrule/MySelfRule.class
+com/sitech/springcloud/DeptConsumer80_APP.class
+com/sitech/springcloud/controller/DeptController_Consumer.class
+com/sitech/springcloud/cfgbeans/ConfigBean.class
+com/sitech/myrule/RoundRobinRule_Dawei.class
